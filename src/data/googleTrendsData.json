@@ -1,0 +1,92 @@
+{
+  "mallTrends": {
+    "title": "Google Trends Comparison (India, Past 12 Months)",
+    "terms": ["cloths", "shoes", "books", "cosmetics"],
+    "timeline": [
+      { "month": "Nov '23", "cloths": 84, "shoes": 78, "books": 44, "cosmetics": 28 },
+      { "month": "Dec '23", "cloths": 89, "shoes": 85, "books": 42, "cosmetics": 32 },
+      { "month": "Jan '24", "cloths": 76, "shoes": 72, "books": 50, "cosmetics": 27 },
+      { "month": "Feb '24", "cloths": 72, "shoes": 70, "books": 48, "cosmetics": 29 },
+      { "month": "Mar '24", "cloths": 75, "shoes": 74, "books": 56, "cosmetics": 26 },
+      { "month": "Apr '24", "cloths": 79, "shoes": 81, "books": 53, "cosmetics": 30 },
+      { "month": "May '24", "cloths": 83, "shoes": 86, "books": 49, "cosmetics": 31 },
+      { "month": "Jun '24", "cloths": 80, "shoes": 79, "books": 46, "cosmetics": 29 },
+      { "month": "Jul '24", "cloths": 85, "shoes": 83, "books": 52, "cosmetics": 33 },
+      { "month": "Aug '24", "cloths": 91, "shoes": 88, "books": 51, "cosmetics": 34 },
+      { "month": "Sep '24", "cloths": 88, "shoes": 90, "books": 47, "cosmetics": 32 },
+      { "month": "Oct '24", "cloths": 96, "shoes": 94, "books": 45, "cosmetics": 38 }
+    ],
+    "subregions": [
+      { "region": "Maharashtra", "cloths": 92, "shoes": 89, "books": 54, "cosmetics": 36 },
+      { "region": "Delhi NCR", "cloths": 95, "shoes": 91, "books": 58, "cosmetics": 39 },
+      { "region": "Karnataka", "cloths": 84, "shoes": 82, "books": 50, "cosmetics": 33 },
+      { "region": "Uttar Pradesh", "cloths": 88, "shoes": 85, "books": 48, "cosmetics": 28 },
+      { "region": "Tamil Nadu", "cloths": 81, "shoes": 80, "books": 46, "cosmetics": 31 },
+      { "region": "West Bengal", "cloths": 79, "shoes": 76, "books": 52, "cosmetics": 29 }
+    ],
+    "relatedQueries": {
+      "books": [
+        { "query": "parmar ssc books", "growth": "+2050%" },
+        { "query": "pw books app", "growth": "+750%" },
+        { "query": "dinesh pandit books", "growth": "+600%" },
+        { "query": "rrb ntpc books", "growth": "+500%" },
+        { "query": "google books partner", "growth": "+400%" }
+      ],
+      "cloths": [
+        { "query": "undress her", "growth": "+400%" },
+        { "query": "shein", "growth": "+190%" },
+        { "query": "undress", "growth": "+120%" },
+        { "query": "clothes remover ai tool", "growth": "+110%" },
+        { "query": "bibs for baby", "growth": "+100%" }
+      ],
+      "shoes": [
+        { "query": "campus shoes sale", "growth": "+380%" },
+        { "query": "nike dunk low india", "growth": "+290%" },
+        { "query": "sparx running shoes", "growth": "+180%" },
+        { "query": "formal derby shoes men", "growth": "+120%" },
+        { "query": "crocs clogs discount", "growth": "+90%" }
+      ],
+      "cosmetics": [
+        { "query": "minimalist sunscreen", "growth": "+450%" },
+        { "query": "dot and key lip balm", "growth": "+320%" },
+        { "query": "cerave cleanser india", "growth": "+280%" },
+        { "query": "mamaearth face wash", "growth": "+140%" },
+        { "query": "nykaa sale dates", "growth": "+110%" }
+      ]
+    }
+  },
+  "campusTrends": {
+    "title": "Google Trends: 'college stationery' (India, Past Year)",
+    "searchTerm": "college stationery",
+    "yearGrowth": "+80% vs preceding year",
+    "timeline": [
+      { "month": "Nov '23 (Semester End)", "interest": 88, "event": "Winter Mid-terms & Practical Submissions" },
+      { "month": "Dec '23 (Exams)", "interest": 95, "event": "Final Semester Theory Exams" },
+      { "month": "Jan '24 (Semester Start)", "interest": 70, "event": "New Semester Induction" },
+      { "month": "Feb '24", "interest": 58, "event": "Regular Coursework" },
+      { "month": "Mar '24 (Mid-Sem)", "interest": 76, "event": "In-Sem Exams & Workshop Submissions" },
+      { "month": "Apr '24 (Project Submissions)", "interest": 92, "event": "Capstone & Mini-Project Submissions" },
+      { "month": "May '24 (Final Exams)", "interest": 98, "event": "End Semester Final University Exams" },
+      { "month": "Jun '24 (Break)", "interest": 32, "event": "Summer Vacation / Internships" },
+      { "month": "Jul '24 (Admissions)", "interest": 64, "event": "New Batch Counseling & Induction" },
+      { "month": "Aug '24 (Semester 1 Start)", "interest": 100, "event": "First Year Starter Kits & Drafter Rush" },
+      { "month": "Sep '24", "interest": 68, "event": "Unit Test Submissions" },
+      { "month": "Oct '24", "interest": 82, "event": "Diwali Break & Prelims" }
+    ],
+    "subregions": [
+      { "region": "Maharashtra (Pune / Mumbai)", "interest": 100 },
+      { "region": "Karnataka (Bengaluru)", "interest": 82 },
+      { "region": "Delhi NCR", "interest": 79 },
+      { "region": "Telangana (Hyderabad)", "interest": 73 },
+      { "region": "Tamil Nadu (Chennai)", "interest": 67 }
+    ],
+    "relatedQueries": [
+      { "query": "engineering drafter near me", "growth": "+320%" },
+      { "query": "fx 991cw scientific calculator pune", "growth": "+450%" },
+      { "query": "mcoe practical record sheets", "growth": "+280%" },
+      { "query": "drawing sheet container online", "growth": "+180%" },
+      { "query": "spiral project journal wholesale", "growth": "+150%" },
+      { "query": "lab coat cotton shop near campus", "growth": "+210%" }
+    ]
+  }
+}
